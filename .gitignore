@@ -1,0 +1,11 @@
+# Secrets — never commit
+.env
+.env.*
+*.key
+keypairs/
+.makefun/
+credentials*
+*secret*
+node_modules/
+__pycache__/
+*.log
